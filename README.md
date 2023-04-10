@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dattalucky
-- 👀 I’m interested in Cyber-security and AI.
-- 🌱 Done with my Bachelor's in Electronics and Communication Stream.
+- 👀 I’m interested in Cyber-security, AWS and AI.
+- 👨‍🎓 Done with my Bachelor's in Electronics and Communication Stream.
+- 👨‍💻 Working in Virtusa Consulting Services Pvt.Ltd
 - 📫 How to reach me : dattasailucky123@gmail.com
 
 <!---
