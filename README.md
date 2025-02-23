@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DATTASAISIMHADRI
 - 👀 I’m interested in Cyber-security, AWS and AI.
 - 👨‍🎓 Done with my Bachelor's in Electronics and Communication Stream.
-- 👨‍💻 Working in Virtusa Consulting Services Pvt.Ltd
+- 👨‍💻 Ex-Virtusan Searching for new Job Opportunities
 - 📫 How to reach me : dattasailucky123@gmail.com
 
 <!---
